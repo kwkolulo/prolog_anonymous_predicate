@@ -1,5 +1,5 @@
 /*
-?-s_new,macro_consult('macro.pl').
+?-s_new,macro_consult('prolog_anonymous_predicate_with_feature_structure.pl').
     ab1c1
 f_sum=3
 f_num=6
